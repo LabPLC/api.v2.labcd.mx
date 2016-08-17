@@ -5,7 +5,7 @@ api.v2.labcd.mx
 ##Las APIs del Laboratorio de Datos disponibles son:
 
 - Vehículos
-  - Adeudos de Tenencia
+  - [Adeudos de Tenencia](https://github.com/LabPLC/api.v2.labcd.mx/wiki/Tenencia)
   - Infracciones
   - Verificación
   
